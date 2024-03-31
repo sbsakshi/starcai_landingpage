@@ -593,6 +593,7 @@
     justify-content: center;
   }
   .screenshot-2024-03-24-000624-1 {
+    padding: 20px;
     width: 1210px;
     position: undefined;
     border-radius: var(--br-31xl);
@@ -753,6 +754,7 @@
     padding:30px;
   }
   .screenshot-2024-03-23-160907 {
+    padding: 20px;
     width: 682px;
     position: relative;
     height: 274px;
