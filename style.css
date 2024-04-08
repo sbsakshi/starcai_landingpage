@@ -1,0 +1,716 @@
+.section1{
+    width: 100%;
+    height: 100vh;
+    background-color: var(--color-gray-200);
+}
+
+.section2{
+    width: 100%;
+}
+
+.p {
+    width: 234px;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 0 17px 0 0;
+    box-sizing: border-box;
+  }
+
+  .max-alter-review-8c474cdd1apn {
+    width: 274px;
+    position: relative;
+    background-color: var(--color-deepskyblue);
+    height: 156px;
+    max-width: 274px;
+  }
+  .p1 {
+    width: 234px;
+    flex-direction: row;
+    padding: 0 15px 0 0;
+    box-sizing: border-box;
+  }
+
+  .laura-haleydt-brand-container {
+    position: relative;
+    line-height: 20px;
+  }
+
+  .ptext-sm {
+    box-sizing: border-box;
+  }
+
+  .ptext-sm1 {
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+  .ptext-sm1 {
+    width: 234px;
+    flex-direction: row;
+    padding: 0 var(--padding-19xl) var(--padding-12xs) 0;
+    box-sizing: border-box;
+    font-size: var(--font-size-sm);
+    color: var(--color-gray-100);
+  }
+
+.super-impressed-taxgpt-container {
+    position: relative;
+    line-height: 24px;
+  }
+
+  .loved-by-student {
+    margin: 0;
+  }
+
+.unlock-success-with {
+    position: relative;
+    line-height: 100px;
+    font-weight: bold;
+    text-align: center;
+    font-size: 72px;
+    color: #342b2b;
+    font-family: var(--font-roboto-slab);
+    margin: 50px;
+}
+
+.sub-heading-page2 {
+    text-align: center;
+    font-size: var(--font-size-17xl);
+    color: var(--color-black);
+}
+
+.image1 {
+    /* padding: 20px; */
+    width: 1032.2px;
+    border-radius: var(--br-31xl);
+    /* height: 520px; */
+    /* margin-left: 50px; */
+    overflow: hidden;
+    margin: auto;
+    display: block;    
+    position: relative;
+    object-fit: contain;
+
+}
+.divp-5 {
+    padding: var(--padding-base) var(--padding-xl) var(--padding-xl);
+    gap: var(--gap-4xl);
+  }
+  .article,
+  .divp-5 {
+    width: 274px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+
+  .p2 {
+    padding: 0 22px 0 0;
+  }
+
+.divappearance-none {
+    width: 274px;
+    border-radius: var(--br-base);
+    background-color: var(--color-gray-400);
+    box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1),
+      0 4px 6px -4px rgba(0, 0, 0, 0.1);
+    height: 376px;
+    overflow: hidden;
+    flex-shrink: 0;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+
+  .divappearance-none1 {
+    width: 274px;
+  }
+  .article1 {
+    flex-direction: column;
+    padding: 0 0 23.999984741210938px;
+    box-sizing: border-box;
+  }
+  .divappearance-none1 {
+    border-radius: var(--br-base);
+    background-color: var(--color-gray-400);
+    box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1),
+      0 4px 6px -4px rgba(0, 0, 0, 0.1);
+    overflow: hidden;
+    flex-shrink: 0;
+    flex-direction: row;
+  }
+
+
+
+
+
+
+  .divflex {
+    padding: 0 0 67.99998474121094px;
+  }
+  .divflex {
+    width: 1344px;
+    flex-direction: row;
+    justify-content: center;
+    padding: 0 88px;
+    gap: var(--gap-5xl);
+  }
+
+  .divscrollbar-hide {
+    flex: 1;
+    flex-direction: row;
+    align-items: flex-start;
+    padding: 0 var(--padding-13xl) var(--padding-13xl);
+  }
+
+
+  .divrelative {
+    width: 100%;
+    flex-direction: row;
+    align-items: flex-start;
+    margin-left: 7%;
+    padding: var(--padding-61xl) 0 0.000030517578125px;
+    text-align: left;
+    font-size: var(--small-text-size);
+    color: var(--color-darkslategray-200);
+  }
+
+.divrelative-icon {
+    width: 1360px;
+    position: relative;
+    height: 1px;
+    z-index: 0;
+  }
+
+.laura-h-review-7a78806077png {
+    width: 274px;
+    position: relative;
+    background-color: #e37bdf;
+    height: 156px;
+    max-width: 274px;
+  }
+
+  .adam-harrison-review-165d80cb0 {
+    width: 274px;
+    position: relative;
+    background-color: #d02727;
+    height: 156px;
+    max-width: 274px;
+  }
+  .loved-by-student {
+    margin: 0;
+  }
+
+  .loved-by-student-container {
+    position: relative;
+    letter-spacing: -1.5px;
+    line-height: 60px;
+    font-weight: 500;
+  }
+  #replace-video-button{
+    background-color: grey;
+    color: #fff;
+    border: none;
+    border-radius: 10px;
+    box-shadow: 0px 0px 2px 2px rgb(0,0,0);
+    padding: 15px 30px;
+    font-size: 16px;
+    cursor: pointer;
+    transition: 0.25s ease;
+    margin: 10px;
+  }
+  .divmx-auto,
+  .heading-2 {
+    width: 810.7px;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: center;
+    padding: 0 75.62997436523438px 0 75.02999877929688px;
+    box-sizing: border-box;
+  }
+  .divmx-auto {
+    width: 938.7px;
+    justify-content: flex-start;
+    padding: 0 64px;
+  }
+  .laura-h-review-7a78806077png {
+    width: 274px;
+    position: relative;
+    background-color: #e37bdf;
+    height: 156px;
+    max-width: 274px;
+  }
+  .super-impressed-taxgpt-container {
+    position: relative;
+    line-height: 24px;
+  }
+  .p {
+    width: 234px;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 0 17px 0 0;
+    box-sizing: border-box;
+  }
+  .laura-haleydt-brand-container {
+    position: relative;
+    line-height: 20px;
+  }
+  .divp-5,
+  .ptext-sm {
+    box-sizing: border-box;
+  }
+  .ptext-sm {
+    width: 234px;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 0 35px var(--padding-12xs) 0;
+    font-size: var(--font-size-sm);
+    color: var(--color-gray-100);
+  }
+  .divp-5 {
+    padding: var(--padding-base) var(--padding-xl) var(--padding-xl);
+    gap: var(--gap-4xl);
+  }
+  .article,
+  .divp-5 {
+    width: 274px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+  .logo {
+    width: 73px;
+    position: relative;
+    height: 53px;
+    object-fit: cover;
+  }
+  .divappearance-none {
+    width: 274px;
+    border-radius: var(--br-base);
+    background-color: var(--color-gray-400);
+    box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1),
+      0 4px 6px -4px rgba(0, 0, 0, 0.1);
+    height: 376px;
+    overflow: hidden;
+    flex-shrink: 0;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+  
+  .max-alter-review-8c474cdd1apn {
+    width: 274px;
+    position: relative;
+    background-color: var(--color-deepskyblue);
+    height: 156px;
+    max-width: 274px;
+  }
+  .p1 {
+    width: 234px;
+    flex-direction: row;
+    padding: 0 15px 0 0;
+    box-sizing: border-box;
+  }
+  .article1,
+  .divappearance-none1,
+  .p1,
+  .ptext-sm1 {
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+  .ptext-sm1 {
+    width: 234px;
+    flex-direction: row;
+    padding: 0 var(--padding-19xl) var(--padding-12xs) 0;
+    box-sizing: border-box;
+    font-size: var(--font-size-sm);
+    color: var(--color-gray-100);
+  }
+  .article1,
+  .divappearance-none1 {
+    width: 274px;
+  }
+  .article1 {
+    flex-direction: column;
+    padding: 0 0 23.999984741210938px;
+    box-sizing: border-box;
+  }
+  .divappearance-none1 {
+    border-radius: var(--br-base);
+    background-color: var(--color-gray-400);
+    box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1),
+      0 4px 6px -4px rgba(0, 0, 0, 0.1);
+    overflow: hidden;
+    flex-shrink: 0;
+    flex-direction: row;
+  }
+  .adam-harrison-review-165d80cb0 {
+    width: 274px;
+    position: relative;
+    background-color: #d02727;
+    height: 156px;
+    max-width: 274px;
+  }
+  .p2,
+  .ptext-sm2 {
+    width: 234px;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    box-sizing: border-box;
+  }
+  .p2 {
+    padding: 0 22px 0 0;
+  }
+  .ptext-sm2 {
+    padding: 0 26px var(--padding-12xs) 0;
+    font-size: var(--font-size-sm);
+    color: var(--color-gray-100);
+  }
+  .chris-y-review-6d33062ed8png {
+    width: 274px;
+    position: relative;
+    background-color: #859f4b;
+    height: 156px;
+    max-width: 274px;
+  }
+  .p3 {
+    width: 234px;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 0 var(--padding-base) 0 0;
+    box-sizing: border-box;
+  }
+  .chris-y-content {
+    position: relative;
+    font-size: var(--font-size-sm);
+    line-height: 20px;
+    color: var(--color-gray-100);
+  }
+  .article3,
+  .divflex,
+  .divp-53 {
+    width: 274px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    box-sizing: border-box;
+  }
+  .divp-53 {
+    padding: var(--padding-base) var(--padding-xl) var(--padding-2xl);
+    gap: var(--gap-4xl);
+  }
+  .article3,
+  .divflex {
+    padding: 0 0 67.99998474121094px;
+  }
+  .divflex {
+    width: 1344px;
+    flex-direction: row;
+    justify-content: center;
+    padding: 0 88px;
+    gap: var(--gap-5xl);
+  }
+  .divrelative,
+  .divscrollbar-hide,
+  .section {
+    overflow: hidden;
+    display: flex;
+    justify-content: flex-start;
+  }
+  .divscrollbar-hide {
+    flex: 1;
+    flex-direction: row;
+    align-items: flex-start;
+    padding: 0 var(--padding-13xl) var(--padding-13xl);
+  }
+  .divrelative,
+  .section {
+    box-sizing: border-box;
+  }
+  
+  .section {
+    width: 1376px;
+    border-radius: var(--br-xs);
+    background-color: var(--color-white);
+    height: 790px;
+    flex-shrink: 0;
+    flex-direction: column;
+    align-items: center;
+    padding: var(--padding-61xl) 0;
+    position: undefined;
+    margin-left: 22px;
+  }
+  .header{
+    display: flex;
+  }
+
+  .typewriter {
+    display: inline-block;
+  }
+
+  .heading {
+    overflow: hidden; /* Ensures the content is not revealed until the animation */
+    border-right: .15em solid orange; /* The typwriter cursor */
+    white-space: nowrap; /* Keeps the content on a single line */
+    margin: 0 auto; /* Gives that scrolling effect as the typing happens */
+    letter-spacing: .15em; /* Adjust as needed */
+    animation: 
+      typing 6s steps(40, end),
+      remove-caret 0s 6s forwards;
+    font-size: 5em;
+  }
+  
+  /* The typing effect */
+  @keyframes typing {
+    from { width: 0 }
+    to { width: 25% }
+  }
+  
+  /* The typewriter cursor effect */
+  @keyframes blink-caret {
+    from, to { border-color: transparent }
+    50% { border-color: orange; }
+  }
+
+  @keyframes remove-caret {
+     to { border-right: none;} 
+  }
+
+  .heading{
+    color:white;
+    text-align: center;
+    position: absolute;
+    top: 20%;
+    left: 40%;
+    line-height: 100%;
+    font-weight: 500;
+    font-family: roboto slab;
+    font-size:96px ;
+  }
+
+
+.starcai1{
+    position: absolute;
+    color: #fff;
+    font-size: xx-large;
+    top: 12px;
+    left: 200px;
+    line-height: 24px;
+    font-weight: 100;
+    display: flex;
+    align-items: center;
+    width: 100px;
+    height: 10px;
+}
+
+.logo{
+  position: absolute;
+top: 16px;
+left: 134px;
+width: 80px;
+height: 66px;
+object-fit: cover;}
+
+.sub-heading{
+  color: #fff;
+  position: absolute;
+    top: 35%;
+    left: 40%;
+    text-align: center;
+    font-size: 35px;
+}
+
+.features1 {
+  position: absolute;
+  top: 60%;
+  left: 60%;
+  font-size: var(--font-size-17xl);
+  line-height: 100%;
+  font-weight: 500;
+  color: var(--color-gainsboro);
+  display: flex;
+  align-items: center;
+  width: 222px;
+  text-align: center;
+  height: 50px;
+  border-color: transparent;
+  background: transparent;
+  border-radius: var(--br-31xl);
+  border-color: aliceblue;
+}
+
+
+.team-story-container{
+    height: 80vh;
+    font-family: 'Montserrat', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f0f0f0;
+    align-items: center;
+    padding: 10px;
+
+}
+
+.team-story{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.team-section {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.team-member {
+  text-align: center;
+  margin: 20px;
+  padding: 20px;
+  background-color: #fff;
+  border-radius: 10px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.21);
+  transition: transform 0.3s ease-in-out;
+}
+
+.team-member:hover {
+  transform: translateY(-10px);
+}
+
+.team-member img {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  object-fit: cover;
+  margin-bottom: 10px;
+}
+
+.team-member h3 {
+  font-weight: 700;
+  margin: 0;
+}
+
+.team-member .role {
+  color: #888;
+  margin-bottom: 10px;
+}
+
+.fa {
+  font-size: 24px;
+  margin: 0 10px;
+  color: #000;
+  transition: transform 0.3s ease-in-out, color 0.3s ease-in-out;
+  text-decoration: none;
+}
+
+.team-member:hover .fa {
+  transform: scale(1.2);
+  color: #007AFF;
+}
+.video-container{
+  background-color: black;
+  color: white;
+  
+}
+.experience-the-transformative-container {
+  width: 1064px;
+  position: undefined;
+  letter-spacing: 0.4px;
+  line-height: 24px;
+  text-transform: uppercase;
+  display: flex;
+  align-items: center;
+  height: 180px;
+  flex-shrink: 0;
+  margin-right: 223px;
+}
+.loved-by-student {
+  margin: 0;
+}
+
+.loved-by-student-container {
+  position: relative;
+  letter-spacing: -1.5px;
+  line-height: 60px;
+  font-weight: 500;
+}
+#replace-video-button{
+  background-color: grey;
+  color: #fff;
+  border: none;
+  border-radius: 10px;
+  box-shadow: 0px 0px 2px 2px rgb(0,0,0);
+  padding: 15px 30px;
+  font-size: 16px;
+  cursor: pointer;
+  transition: 0.25s ease;
+  margin: 10px;
+}
+
+.of-text-analysis {
+  margin: 0;
+  font-size: var(--subheading-size);
+}
+.video{
+  display: block;
+  margin: auto;
+  width: 75%;
+}
+.video-container{
+  background-color: black;
+  color: white;
+}
+.experience-the-transformative-container1 {
+  width: 100%;
+}
+
+.features-heading{
+  font-family: 'Roboto Slab';
+  font-size: 46px;
+  text-align: center;
+  padding: 30px;
+}
+
+.f{
+  display: grid;
+}
+
+.f1-img{
+  grid-column-start: 2;
+}
+
+.f3-img{
+  grid-column-start: 2;
+}
+
+.f2-text{
+  grid-column-start: 2;
+}
+.f-container{
+  padding-left: 260px;
+}
+.f1-img{
+  height: 183px;
+  width: 409px;
+}
+
+.features{
+  font-size: 28px;
+  height: 100vh;
+}

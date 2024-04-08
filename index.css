@@ -105,6 +105,7 @@
     align-items: flex-start;
     justify-content: flex-start;
   }
+  
   .max-alter-review-8c474cdd1apn {
     width: 274px;
     position: relative;
@@ -685,15 +686,11 @@
     height: 429px;
     object-fit: cover;
   }
-  .video{
-    display: block;
-    margin: auto;
-    width: 75%;
-  }
-  .video-container{
-    background-color: black;
-    color: white;
-  }
+
+  
+
+
+  
 
   .section2 {
     display: flex;
@@ -946,10 +943,9 @@
     width: 1510px;
     justify-content: center;
   }
-  .of-text-analysis {
-    margin: 0;
-    font-size: var(--subheading-size);
-  }
+
+  
+
   .experience-the-transformative-container1 {
     width: 100%;
   }
