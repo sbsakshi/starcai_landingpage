@@ -2,15 +2,22 @@
     width: 100%;
     height: 100vh;
     background-color: var(--color-gray-200);
+    font-family: Roboto;
 }
 
 .section2{
     width: 100%;
 }
 
+.faq{
+  font-size: 45px;
+  text-align: center;
+  font-family: 'ROBOTO SLAB';}
+
 .p {
     width: 234px;
     display: flex;
+    text-align: left;
     flex-direction: row;
     align-items: flex-start;
     justify-content: flex-start;
@@ -153,7 +160,7 @@
     padding: 0 0 67.99998474121094px;
   }
   .divflex {
-    width: 1344px;
+    width: 100%;
     flex-direction: row;
     justify-content: center;
     padding: 0 88px;
@@ -164,12 +171,13 @@
     flex: 1;
     flex-direction: row;
     align-items: flex-start;
+    width: 100%;
     padding: 0 var(--padding-13xl) var(--padding-13xl);
   }
 
 
   .divrelative {
-    width: 100%;
+    width: 80%;
     flex-direction: row;
     align-items: flex-start;
     margin-left: 7%;
@@ -421,7 +429,7 @@
     padding: 0 0 67.99998474121094px;
   }
   .divflex {
-    width: 1344px;
+    width: 100%;
     flex-direction: row;
     justify-content: center;
     padding: 0 88px;
@@ -470,7 +478,7 @@
     border-right: .15em solid orange; /* The typwriter cursor */
     white-space: nowrap; /* Keeps the content on a single line */
     margin: 0 auto; /* Gives that scrolling effect as the typing happens */
-    letter-spacing: .15em; /* Adjust as needed */
+    letter-spacing: .2 em; /* Adjust as needed */
     animation: 
       typing 6s steps(40, end),
       remove-caret 0s 6s forwards;
@@ -480,7 +488,7 @@
   /* The typing effect */
   @keyframes typing {
     from { width: 0 }
-    to { width: 25% }
+    to { width: 20% }
   }
   
   /* The typewriter cursor effect */
@@ -493,6 +501,12 @@
      to { border-right: none;} 
   }
 
+  .heading-container{
+    /* display: flex;
+    align-items: center;
+    justify-content: center; */
+  }
+
   .heading{
     color:white;
     text-align: center;
@@ -501,52 +515,56 @@
     left: 40%;
     line-height: 100%;
     font-weight: 500;
-    font-family: roboto slab;
-    font-size:96px ;
+    font-family: roboto ;
+    font-size:120px ;
   }
 
 
 .starcai1{
     position: absolute;
     color: #fff;
-    font-size: xx-large;
-    top: 12px;
-    left: 200px;
+    font-size: 40px;
+    top: 15px;
+    left: 120px;
     line-height: 24px;
-    font-weight: 100;
+    font-weight: 450;
     display: flex;
     align-items: center;
     width: 100px;
     height: 10px;
+    
 }
 
 .logo{
   position: absolute;
 top: 16px;
-left: 134px;
-width: 80px;
-height: 66px;
+left: 25px;
+width: 111px;
+height: 90px;
 object-fit: cover;}
 
 .sub-heading{
   color: #fff;
+  font-weight: 450;
   position: absolute;
     top: 35%;
-    left: 40%;
+    left: 35%;
     text-align: center;
-    font-size: 35px;
+    font-size: 45px;
 }
 
 .features1 {
   position: absolute;
+  font-family: roboto;
   top: 60%;
-  left: 60%;
-  font-size: var(--font-size-17xl);
+  left: 58%;
+  font-size: 20px;
   line-height: 100%;
   font-weight: 500;
   color: var(--color-gainsboro);
   display: flex;
   align-items: center;
+  justify-content: center;
   width: 222px;
   text-align: center;
   height: 50px;
@@ -554,6 +572,25 @@ object-fit: cover;}
   background: transparent;
   border-radius: var(--br-31xl);
   border-color: aliceblue;
+}
+.features2 {
+  position: absolute;
+  font-family: roboto;
+  top: 60%;
+  left: 60%;
+  font-size: 20px;
+  line-height: 100%;
+  font-weight: 800;
+  color: black;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 222px;
+  text-align: center;
+  height: 50px;
+  background:rgba(197, 205, 233, 1);
+  border-radius: var(--br-31xl);
+  border-color: transparent;
 }
 
 
@@ -581,7 +618,7 @@ object-fit: cover;}
 
 .team-member {
   text-align: center;
-  margin: 20px;
+  margin: 25px;
   padding: 20px;
   background-color: #fff;
   border-radius: 10px;
@@ -629,6 +666,7 @@ object-fit: cover;}
   
 }
 .experience-the-transformative-container {
+  padding: 20px;
   width: 1064px;
   position: undefined;
   letter-spacing: 0.4px;
@@ -642,6 +680,7 @@ object-fit: cover;}
 }
 .loved-by-student {
   margin: 0;
+
 }
 
 .loved-by-student-container {
@@ -665,6 +704,7 @@ object-fit: cover;}
 
 .of-text-analysis {
   margin: 0;
+  padding: 20px;
   font-size: var(--subheading-size);
 }
 .video{
@@ -689,6 +729,8 @@ object-fit: cover;}
 
 .f{
   display: grid;
+  grid-template-columns: 1fr 1fr;
+
 }
 
 .f1-img{
@@ -701,6 +743,8 @@ object-fit: cover;}
 
 .f2-text{
   grid-column-start: 2;
+  display: flex;
+  align-items: center;
 }
 .f-container{
   padding-left: 260px;
@@ -713,4 +757,9 @@ object-fit: cover;}
 .features{
   font-size: 28px;
   height: 100vh;
+}
+
+.Investor{
+  display: flex;
+  align-items: center;
 }
