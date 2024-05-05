@@ -1,0 +1,106 @@
+.screenshot-2024-03-23-155606-11 {
+    position: absolute;
+    top: 16px;
+    left: 134px;
+    width: 80px;
+    height: 66px;
+    object-fit: cover;
+  }
+  .starcai1 {
+    position: absolute;
+    top: 55px;
+    left: 214px;
+    line-height: 24px;
+    font-weight: 500;
+    display: flex;
+    align-items: center;
+    width: 211px;
+    height: 10px;
+  }
+  .take-control-of {
+    margin: 0;
+  }
+  .take-control-of-container {
+    position: absolute;
+    top: 366px;
+    left: 311px;
+    line-height: 100%;
+    font-weight: 500;
+    text-align: center;
+  }
+  .desktop-7-child {
+    position: absolute;
+    top: 614px;
+    left: 424px;
+    border-radius: var(--br-31xl);
+    background-color: var(--color-lightsteelblue-100);
+    width: 275px;
+    height: 88px;
+  }
+  .demo {
+    position: absolute;
+    top: 619px;
+    left: 467px;
+    font-size: var(--heading-h2-size);
+    line-height: 100%;
+    font-weight: 500;
+    color: var(--color-gray-300);
+    display: flex;
+    align-items: center;
+    width: 190px;
+    height: 77px;
+    transform: rotate(-0.02deg);
+    transform-origin: 0 0;
+  }
+  .desktop-7-inner,
+  .desktop-7-item {
+    position: absolute;
+    border-radius: var(--br-31xl);
+    width: 275px;
+    height: 88px;
+  }
+  .desktop-7-item {
+    top: 614px;
+    left: 774px;
+    background-color: var(--color-lightsteelblue-200);
+  }
+  .desktop-7-inner {
+    top: calc(50% - 3586px);
+    right: 391px;
+    border: 1px solid var(--color-dimgray);
+    box-sizing: border-box;
+  }
+  .features1 {
+    position: absolute;
+    top: 644px;
+    left: 825px;
+    font-size: var(--font-size-17xl);
+    line-height: 100%;
+    font-weight: 500;
+    color: var(--color-gainsboro);
+    display: flex;
+    align-items: center;
+    width: 222px;
+    height: 27px;
+  }
+  .images-1-icon {
+    position: absolute;
+    top: 630px;
+    left: 608px;
+    width: 49px;
+    height: 55px;
+    object-fit: cover;
+    mix-blend-mode: multiply;
+  }
+  .desktop-7 {
+    width: 100%;
+    position: relative;
+    background-color: var(--color-gray-200);
+    height: 988px;
+    overflow: hidden;
+    text-align: left;
+    font-size: var(--font-size-45xl);
+    color: var(--color-white);
+    font-family: var(--font-roboto);
+  }
+  
